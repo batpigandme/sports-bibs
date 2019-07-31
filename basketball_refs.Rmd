@@ -1,0 +1,23 @@
+---
+name: Mara Averick
+date: '`r format(Sys.Date())`'
+title: basketball references
+output:
+  html_document:
+    keep_md: true
+bibliography: '`r here::here("refs", "basketball.bib")`'
+nocite: '@*'
+---
+
+```{r setup, include = FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## Word of warning
+
+_This is the result of a naive search for the term "basketball" in my own collection of papers on my computer. So, I really haven't gone through this carefully._
+
+## References
+
+\nocite{*}
+\bibliographystyle{ieeecr}
