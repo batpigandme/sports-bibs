@@ -1,0 +1,10 @@
+name: Publish Document
+title:
+username:
+account: rpubs
+server: rpubs.com
+hostUrl: rpubs.com
+appId: https://api.rpubs.com/api/v1/document/516875/1efbf3c6191f4c1ebc2b025907433d61
+bundleId: https://api.rpubs.com/api/v1/document/516875/1efbf3c6191f4c1ebc2b025907433d61
+url: http://rpubs.com/maraaverick/516875
+when: 1564667344.86146
