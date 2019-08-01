@@ -1,6 +1,6 @@
 ---
 name: Mara Averick
-date: '2019-07-31'
+date: '2019-08-01'
 title: basketball references
 output:
   html_document:
@@ -10,6 +10,8 @@ nocite: '@*'
 ---
 
 
+
+source: [https://github.com/batpigandme/sports-bibs](https://github.com/batpigandme/sports-bibs)
 
 ## Word of warning
 

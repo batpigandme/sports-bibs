@@ -13,6 +13,8 @@ nocite: '@*'
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
+source: [https://github.com/batpigandme/sports-bibs](https://github.com/batpigandme/sports-bibs)
+
 ## Word of warning
 
 _This is the result of a naive search for the term "basketball" in my own collection of papers on my computer. So, I really haven't gone through this carefully._
