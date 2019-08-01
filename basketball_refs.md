@@ -11,7 +11,9 @@ nocite: '@*'
 
 
 
-source: [https://github.com/batpigandme/sports-bibs](https://github.com/batpigandme/sports-bibs)
+url: <https://rpubs.com/maraaverick/basketball-refs>
+
+data source: [https://github.com/batpigandme/sports-bibs](https://github.com/batpigandme/sports-bibs)
 
 ## Word of warning
 
